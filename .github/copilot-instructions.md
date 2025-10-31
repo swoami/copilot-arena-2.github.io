@@ -26,3 +26,25 @@ React.js, HTML, CSS, JavaScript, Google Maps API, EmailJS, Express.js.
 ## Styling and design guidelines
 Nowoczesny, responsywny design.
 
+### Paleta kolorów:
+#3a3c4a
+rgb(58, 60, 74)
+
+#5f626d
+rgb(95, 98, 109)
+
+#8c9bc0
+rgb(140, 155, 192)
+
+#d9c2a6
+rgb(217, 194, 166)
+
+#ff6e61
+rgb(255, 110, 97)
+
+
+
+## Input data
+
+- Link do strony w google maps z lokalizacją firmy oraz opiniami: 
+https://www.google.com/maps/place/Ania+Matusik+Personal+Trainer/@52.2416541,20.9296597,7580m/data=!3m1!1e3!4m10!1m2!2m1!1strener+personalny!3m6!1s0x471ecb1a8e620477:0xae1c2c1091607338!8m2!3d52.2385934!4d20.9260454!15sChF0cmVuZXIgcGVyc29uYWxueVoTIhF0cmVuZXIgcGVyc29uYWxueZIBEHBlcnNvbmFsX3RyYWluZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXlYMjlZUkRkUlJSQUKqAVEQASoVIhF0cmVuZXIgcGVyc29uYWxueSgLMh8QASIb-DRwp8U3ovN8dzeNo-rZ2yB0Pbi3tKRVqosoMhUQAiIRdHJlbmVyIHBlcnNvbmFsbnngAQD6AQUIugIQRQ!16s%2Fg%2F1pp2tgt94?entry=ttu&g_ep=EgoyMDI1MTAyOC4wIKXMDSoASAFQAw%3D%3D
