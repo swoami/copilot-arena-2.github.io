@@ -1,3 +1,6 @@
+---
+applyTo: '**'
+---
 
 # 🌐 Project Context – Trener Personalny
 
@@ -21,7 +24,7 @@ Zwiększenie widoczności w internecie, pozyskanie nowych klientów,
 budowanie marki osobistej trenera personalnego.
 
 ## ⚙️ Technical Stack
-React.js, HTML, CSS, JavaScript, Google Maps API, EmailJS, Express.js.
+Github Pages, React.js, HTML, CSS, JavaScript, Google Maps API, EmailJS
 
 ## Styling and design guidelines
 Nowoczesny, responsywny design.
